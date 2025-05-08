@@ -1,5 +1,3 @@
-<<<<<<< HEAD
 # FastAPI Blog
-=======
-# fastapi-blog
->>>>>>> origin/main
+
+This is the repository for a FastAPI blog application.
